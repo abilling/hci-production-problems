@@ -11,8 +11,8 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.http://www.d.umn.edu/itss/training/online/usability/checklist.html
+2.https://www.w3.org/WAI/test-evaluate/preliminary/
 
 * Your own condensed ten-item, must-have usability checklist:
 
